@@ -6,7 +6,7 @@ This microservice presents a transport mode prediction algorithm for smart surve
 
 The development is described and documented in geo-transportmode-prediction-ssi_documentation.pdf.
 
-## Overview on central functions
+## Overview on Python scripts
 
 All required functions of this microservice can be found in the folder python.
 
