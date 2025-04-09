@@ -8,7 +8,7 @@ The development is described and documented in geo-transportmode-prediction-ssi_
 
 ## Overview on central functions
 
-All required functions of this microservice can be found in this repo.
+All required functions of this microservice can be found in the folder python.
 
 ### transport_mode_main.py
 
